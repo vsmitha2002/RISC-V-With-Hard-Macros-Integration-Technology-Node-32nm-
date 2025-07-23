@@ -14,3 +14,10 @@ Metal Layers: 8
 Hard Macros: 2  
 Instance Count: ~25k  
 Number of Clocks: 1  
+
+| Stage                  | Tool                  | Vendor   |
+| ---------------------- | --------------------- | -------- |
+| Synthesis              | Design Compiler       | Synopsys |
+| Place & Route          | IC Compiler II (ICC2) | Synopsys |
+| Static Timing Analysis | PrimeTime             | Synopsys |
+
