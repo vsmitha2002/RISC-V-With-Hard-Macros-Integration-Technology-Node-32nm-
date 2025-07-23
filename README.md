@@ -1,6 +1,6 @@
-🔧 Design and Implementation of RISC-V IP with Hard Macro Creation and Integration  
+🔧 Design and Implementation of RISC-V with Hard Macro Creation and Integration  
 📌 Objective  
-To design and implement a RISC-V-based IP core with a focus on Hard Macro Creation and Integration, optimizing for area, power, and performance at a 32nm technology node.  
+To design and implement a RISC-V-based which focus on Hard Macro Creation and Integration, optimizing for area, power, and performance at a 32nm technology node.  
 
 🔍 Key Focus Areas  
 ✅ Hard Macro Design: Developed and implemented two hard macros for critical RISC-V sub-modules (e.g., ALU and Machine Counter) with strict area and performance targets.  
