@@ -1,21 +1,8 @@
-Design and Implementation of RISC-V IP with Hard Macro Creation and Integration  
-Objective  
-Design and Implemented RISC-V IP with Hard Macro Creation and Integration.  
+🔧 Design and Implementation of RISC-V IP with Hard Macro Creation and Integration  
+📌 Objective  
+To design and implement a RISC-V-based IP core with a focus on Hard Macro Creation and Integration, optimizing for area, power, and performance at a 32nm technology node.  
 
-Key Focus Areas
-Designed and implemented two hard macros for RISC-V sub-modules, meeting area, power, and performance constraints.  
-Integrated the hard macros into the top-level design with optimized floor planning, placement, and routing.  
-Optimized design to meet timing closure and power constraints using static timing analysis.  
-
-Design Specifications
-Role: Synthesis, P & R, and Timing Analysis
-Technology Node: 32nm
-Layers: 8 Metal layers
-Hard Macros: 2
-Instance Count: ~25k
-Number of Clocks: 1
-
-Tools Utilized
-Synthesis: Design Compiler (Synopsys)  
-P & R Tools: IC Compiler II (Synopsys)  
-Static Timing Analysis: Primetime (Synopsys)  
+🔍 Key Focus Areas  
+✅ Hard Macro Design: Developed and implemented two hard macros for critical RISC-V sub-modules (e.g., ALU and Machine Counter) with strict area and performance targets.  
+✅ Integration into Top-Level: Seamlessly integrated hard macros into the SoC-level design using optimized floorplanning, placement, and routing strategies.  
+✅ Timing & Power Optimization: Achieved timing closure and power targets through multiple optimization loops and thorough static timing analysis (STA).  
